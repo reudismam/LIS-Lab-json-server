@@ -1,0 +1,35 @@
+{
+  "discentes": [],
+  "docentes": [
+    {
+      "name": "Reudismam",
+      "lastname": "de Sousa",
+      "email": "reudismam@gmail.com",
+      "phone": "0000000000",
+      "course": "asfsf",
+      "category": "Discente",
+      "occupation": "Membro",
+      "degree": "Graduado",
+      "bio": "ssdf",
+      "InterestArea": [
+        "asdf",
+        "asdf"
+      ],
+      "publications": [
+        {
+          "title": "asdf",
+          "year": "2010",
+          "reference": "asdf"
+        }
+      ],
+      "projects": [
+        {
+          "title": "asdf",
+          "year": "asdf",
+          "description": "sdf"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
